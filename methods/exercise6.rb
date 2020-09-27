@@ -1,0 +1,1 @@
+# that there's an error of wrong number of arguments.

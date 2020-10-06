@@ -1,0 +1,1 @@
+The difference is that the first hash has a symbol as a key whereas the 2nd one has a string as a key.

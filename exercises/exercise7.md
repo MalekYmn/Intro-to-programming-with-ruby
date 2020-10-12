@@ -1,0 +1,1 @@
+The differences is that hashes contains key-value pairing.
